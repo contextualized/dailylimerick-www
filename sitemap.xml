@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://example.org/kayaking/2023-04-08-limerick-5hv1f3gc/</loc>
+    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://example.org/kayaking/2023-04-08-limerick-o57f3r77/</loc>
+    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/yoga/2023-04-08-limerick-pq7zc52p/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/yoga/2023-04-08-limerick-o6e7fdgc/</loc>
@@ -14,6 +20,9 @@
     <loc>http://example.org/hiking/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://example.org/yoga/2023-04-08-limerick-8jjlzeyc/</loc>
+    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://example.org/tags/kayaking/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -23,10 +32,19 @@
     <loc>http://example.org/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://example.org/hiking/2023-04-08-limerick-voi0m91y/</loc>
+    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://example.org/hiking/2023-04-08-limerick-it12vfng/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://example.org/hiking/2023-04-08-limerick-4szfxizi/</loc>
+    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://example.org/tags/</loc>
+    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/kayaking/2023-04-08-limerick-qiaevwe3/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/yoga/</loc>

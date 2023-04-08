@@ -8,12 +8,30 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/yoga/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Caterpillar Yoga</title>
+      <link>http://example.org/yoga/2023-04-08-limerick-pq7zc52p/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/yoga/2023-04-08-limerick-pq7zc52p/</guid>
+      <description>A caterpillar tried yoga one day, With many legs stretched out to play, It twisted and turned, New poses it learned, A flexible worm on display.</description>
+    </item>
+    
+    <item>
       <title>Elephant Yoga</title>
       <link>http://example.org/yoga/2023-04-08-limerick-o6e7fdgc/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/yoga/2023-04-08-limerick-o6e7fdgc/</guid>
       <description>An elephant joined a yoga class, With trunk and a large, hefty mass, It stretched and it bent, With such grace, time well spent, A flexible giant, first-class.</description>
+    </item>
+    
+    <item>
+      <title>Kangaroo Yoga</title>
+      <link>http://example.org/yoga/2023-04-08-limerick-8jjlzeyc/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/yoga/2023-04-08-limerick-8jjlzeyc/</guid>
+      <description>A kangaroo tried out some yoga, Its balance, quite like a tightrope-a, With a hop and a stretch, It found quite the fetch, A marsupial zen-like persona.</description>
     </item>
     
   </channel>

@@ -8,12 +8,30 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/kayaking/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Astronaut Kayaking</title>
+      <link>http://example.org/kayaking/2023-04-08-limerick-5hv1f3gc/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/kayaking/2023-04-08-limerick-5hv1f3gc/</guid>
+      <description>An astronaut took to the lake, In a kayak for leisure&amp;rsquo;s sweet sake, In zero G style, It floated a while, A space-kayak trip, quite opaque.</description>
+    </item>
+    
+    <item>
       <title>Baker Kayaking</title>
       <link>http://example.org/kayaking/2023-04-08-limerick-o57f3r77/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/kayaking/2023-04-08-limerick-o57f3r77/</guid>
       <description>A baker went out for a row, In a kayak, as waters did flow, With pastries in tote, They managed to float, A sweet, floating bakery to stow.</description>
+    </item>
+    
+    <item>
+      <title>Turtle Kayaking</title>
+      <link>http://example.org/kayaking/2023-04-08-limerick-qiaevwe3/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/kayaking/2023-04-08-limerick-qiaevwe3/</guid>
+      <description>A turtle set off in a kayak, Quite slow, but it never looked back, It paddled with grace, And picked up the pace, A reptilian rowing attack.</description>
     </item>
     
   </channel>
