@@ -2,79 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/kayaking/2023-04-08-limerick-5hv1f3gc/</loc>
+    <loc>https://example.com/post/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/kayaking/2023-04-08-limerick-o57f3r77/</loc>
+    <loc>https://example.com/2023-04-08-limerick-9j41hs8b/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/yoga/2023-04-08-limerick-pq7zc52p/</loc>
+    <loc>https://example.com/tags/hiking/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/kayaking/2023-04-08-limerick-vu0m68vg/</loc>
+    <loc>https://example.com/2023-04-08-limerick-dps9r8tv/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/yoga/2023-04-08-limerick-o6e7fdgc/</loc>
+    <loc>https://example.com/tags/kayaking/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/hiking/2023-04-08-limerick-b3rjse31/</loc>
+    <loc>https://example.com/2023-04-08-limerick-o95sndiz/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/hiking/</loc>
+    <loc>https://example.com/tags/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/hiking/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/yoga/2023-04-08-limerick-8jjlzeyc/</loc>
+    <loc>https://example.com/tags/yoga/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/kayaking/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tags/issue/</loc>
+    <lastmod>2020-06-17T22:01:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/kayaking/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/hiking/2023-04-08-limerick-ktkms59t/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/kayaking/2023-04-08-limerick-ix5e21i6/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/yoga/2023-04-08-limerick-c1pwi9pn/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/hiking/2023-04-08-limerick-voi0m91y/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/yoga/2023-04-08-limerick-3j5ymwa5/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/hiking/2023-04-08-limerick-it12vfng/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/hiking/2023-04-08-limerick-4szfxizi/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/kayaking/2023-04-08-limerick-qiaevwe3/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/yoga/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/yoga/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/categories/</loc>
-  </url><url>
-    <loc>http://example.org/hiking/</loc>
-  </url><url>
-    <loc>http://example.org/kayaking/</loc>
+    <loc>https://example.com/multiple-expandable-test/</loc>
+    <lastmod>2020-06-17T22:01:14-05:00</lastmod>
   </url>
 </urlset>

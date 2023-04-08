@@ -1,163 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>The Daily Limerick</title>
+    <link>https://example.com/</link>
+    <description>Recent content on The Daily Limerick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Astronaut Kayaking</title>
-      <link>http://example.org/kayaking/2023-04-08-limerick-5hv1f3gc/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/kayaking/2023-04-08-limerick-5hv1f3gc/</guid>
-      <description>An astronaut took to the lake, In a kayak for leisure&amp;rsquo;s sweet sake, In zero G style, It floated a while, A space-kayak trip, quite opaque.</description>
-    </item>
-    
-    <item>
-      <title>Baker Kayaking</title>
-      <link>http://example.org/kayaking/2023-04-08-limerick-o57f3r77/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/kayaking/2023-04-08-limerick-o57f3r77/</guid>
-      <description>A baker went out for a row, In a kayak, as waters did flow, With pastries in tote, They managed to float, A sweet, floating bakery to stow.</description>
-    </item>
-    
-    <item>
-      <title>Caterpillar Yoga</title>
-      <link>http://example.org/yoga/2023-04-08-limerick-pq7zc52p/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/yoga/2023-04-08-limerick-pq7zc52p/</guid>
-      <description>A caterpillar tried yoga one day, With many legs stretched out to play, It twisted and turned, New poses it learned, A flexible worm on display.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dolphin Kayaking</title>
-      <link>http://example.org/kayaking/2023-04-08-limerick-vu0m68vg/</link>
+      <link>https://example.com/2023-04-08-limerick-9j41hs8b/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/kayaking/2023-04-08-limerick-vu0m68vg/</guid>
+      <guid>https://example.com/2023-04-08-limerick-9j41hs8b/</guid>
       <description>A dolphin decided to glide, In a kayak, a new way to ride, With fins as its guide, The boat gently glides, A maritime trip so bona fide.</description>
     </item>
     
     <item>
-      <title>Elephant Yoga</title>
-      <link>http://example.org/yoga/2023-04-08-limerick-o6e7fdgc/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/yoga/2023-04-08-limerick-o6e7fdgc/</guid>
-      <description>An elephant joined a yoga class, With trunk and a large, hefty mass, It stretched and it bent, With such grace, time well spent, A flexible giant, first-class.</description>
-    </item>
-    
-    <item>
-      <title>Gorilla Hiking</title>
-      <link>http://example.org/hiking/2023-04-08-limerick-b3rjse31/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/hiking/2023-04-08-limerick-b3rjse31/</guid>
-      <description>A gorilla went hiking with zest, In the jungle, a natural quest, It swung from the vines, In casual strides, A hike where no humans had pressed.</description>
-    </item>
-    
-    <item>
       <title>Kangaroo Yoga</title>
-      <link>http://example.org/yoga/2023-04-08-limerick-8jjlzeyc/</link>
+      <link>https://example.com/2023-04-08-limerick-dps9r8tv/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/yoga/2023-04-08-limerick-8jjlzeyc/</guid>
+      <guid>https://example.com/2023-04-08-limerick-dps9r8tv/</guid>
       <description>A kangaroo tried out some yoga, Its balance, quite like a tightrope-a, With a hop and a stretch, It found quite the fetch, A marsupial zen-like persona.</description>
     </item>
     
     <item>
-      <title>Knight Hiking</title>
-      <link>http://example.org/hiking/2023-04-08-limerick-ktkms59t/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/hiking/2023-04-08-limerick-ktkms59t/</guid>
-      <description>A knight went for hiking one morn, With his armor and helmet adorned, He trekked through the land, Sword and shield in his hand, A medieval adventure was born.</description>
-    </item>
-    
-    <item>
-      <title>Llama Kayaking</title>
-      <link>http://example.org/kayaking/2023-04-08-limerick-ix5e21i6/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/kayaking/2023-04-08-limerick-ix5e21i6/</guid>
-      <description>A llama went out for a splash, In a kayak, it made quite a dash, With paddle in hoof, And waterproof roof, It braved through the rapids with flash.</description>
-    </item>
-    
-    <item>
-      <title>Ninja Yoga</title>
-      <link>http://example.org/yoga/2023-04-08-limerick-c1pwi9pn/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/yoga/2023-04-08-limerick-c1pwi9pn/</guid>
-      <description>A ninja found peace in a pose, With yoga, a calm juxtapose, In silence and stealth, A focus of wealth, A warrior&amp;rsquo;s zen state, it shows.</description>
-    </item>
-    
-    <item>
-      <title>Penguin Hiking</title>
-      <link>http://example.org/hiking/2023-04-08-limerick-voi0m91y/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/hiking/2023-04-08-limerick-voi0m91y/</guid>
-      <description>A penguin went hiking one day, Climbing mountains so far away, With flippers for boots, And ice in its roots, A chilly adventure&amp;rsquo;s display.</description>
-    </item>
-    
-    <item>
-      <title>PolarBear Yoga</title>
-      <link>http://example.org/yoga/2023-04-08-limerick-3j5ymwa5/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/yoga/2023-04-08-limerick-3j5ymwa5/</guid>
-      <description>A polar bear took to the mat, In yoga, it found a new habitat, With a stretch and a twist, The cold, it dismissed, A zen arctic bear, just like that.</description>
-    </item>
-    
-    <item>
       <title>Raccoon Hiking</title>
-      <link>http://example.org/hiking/2023-04-08-limerick-it12vfng/</link>
+      <link>https://example.com/2023-04-08-limerick-o95sndiz/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/hiking/2023-04-08-limerick-it12vfng/</guid>
+      <guid>https://example.com/2023-04-08-limerick-o95sndiz/</guid>
       <description>A raccoon set off for a hike, With a backpack and walking stick-like, Through forests it strolled, With snacks to unfold, Its trail mix, a balanced delight.</description>
     </item>
     
     <item>
-      <title>Robot Hiking</title>
-      <link>http://example.org/hiking/2023-04-08-limerick-4szfxizi/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <title>Multiple Expandable Test</title>
+      <link>https://example.com/multiple-expandable-test/</link>
+      <pubDate>Wed, 17 Jun 2020 22:01:14 -0500</pubDate>
       
-      <guid>http://example.org/hiking/2023-04-08-limerick-4szfxizi/</guid>
-      <description>A robot went hiking, how strange, Its circuits and gears to arrange, It climbed and it trekked, No energy checked, A battery-powered exchange.</description>
-    </item>
-    
-    <item>
-      <title>Turtle Kayaking</title>
-      <link>http://example.org/kayaking/2023-04-08-limerick-qiaevwe3/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/kayaking/2023-04-08-limerick-qiaevwe3/</guid>
-      <description>A turtle set off in a kayak, Quite slow, but it never looked back, It paddled with grace, And picked up the pace, A reptilian rowing attack.</description>
-    </item>
-    
-    <item>
-      <title>Hiking</title>
-      <link>http://example.org/hiking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/hiking/</guid>
-      <description>Explore the scenic trails and discover the beauty of nature on a hike.</description>
-    </item>
-    
-    <item>
-      <title>Kayaking</title>
-      <link>http://example.org/kayaking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/kayaking/</guid>
-      <description>Enjoy a day of kayaking on the beautiful river.</description>
+      <guid>https://example.com/multiple-expandable-test/</guid>
+      <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/36 &amp;ndash; Multiple expandable shortcodes do not work if they have the same inner text.
+expandable 1 Same inner text. expandable 2 Same inner text. expandable 3 Different inner text. </description>
     </item>
     
   </channel>

@@ -1,55 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kayaking on My New Hugo Site</title>
-    <link>http://example.org/tags/kayaking/</link>
-    <description>Recent content in Kayaking on My New Hugo Site</description>
+    <title>Kayaking on The Daily Limerick</title>
+    <link>https://example.com/tags/kayaking/</link>
+    <description>Recent content in Kayaking on The Daily Limerick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/kayaking/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Astronaut Kayaking</title>
-      <link>http://example.org/kayaking/2023-04-08-limerick-5hv1f3gc/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/kayaking/2023-04-08-limerick-5hv1f3gc/</guid>
-      <description>An astronaut took to the lake, In a kayak for leisure&amp;rsquo;s sweet sake, In zero G style, It floated a while, A space-kayak trip, quite opaque.</description>
-    </item>
-    
-    <item>
-      <title>Baker Kayaking</title>
-      <link>http://example.org/kayaking/2023-04-08-limerick-o57f3r77/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/kayaking/2023-04-08-limerick-o57f3r77/</guid>
-      <description>A baker went out for a row, In a kayak, as waters did flow, With pastries in tote, They managed to float, A sweet, floating bakery to stow.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/kayaking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dolphin Kayaking</title>
-      <link>http://example.org/kayaking/2023-04-08-limerick-vu0m68vg/</link>
+      <link>https://example.com/2023-04-08-limerick-9j41hs8b/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/kayaking/2023-04-08-limerick-vu0m68vg/</guid>
+      <guid>https://example.com/2023-04-08-limerick-9j41hs8b/</guid>
       <description>A dolphin decided to glide, In a kayak, a new way to ride, With fins as its guide, The boat gently glides, A maritime trip so bona fide.</description>
-    </item>
-    
-    <item>
-      <title>Llama Kayaking</title>
-      <link>http://example.org/kayaking/2023-04-08-limerick-ix5e21i6/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/kayaking/2023-04-08-limerick-ix5e21i6/</guid>
-      <description>A llama went out for a splash, In a kayak, it made quite a dash, With paddle in hoof, And waterproof roof, It braved through the rapids with flash.</description>
-    </item>
-    
-    <item>
-      <title>Turtle Kayaking</title>
-      <link>http://example.org/kayaking/2023-04-08-limerick-qiaevwe3/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/kayaking/2023-04-08-limerick-qiaevwe3/</guid>
-      <description>A turtle set off in a kayak, Quite slow, but it never looked back, It paddled with grace, And picked up the pace, A reptilian rowing attack.</description>
     </item>
     
   </channel>

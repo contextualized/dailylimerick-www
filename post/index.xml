@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on The Daily Limerick</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Blog on The Daily Limerick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dolphin Kayaking</title>
+      <link>https://example.com/2023-04-08-limerick-9j41hs8b/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/2023-04-08-limerick-9j41hs8b/</guid>
+      <description>A dolphin decided to glide, In a kayak, a new way to ride, With fins as its guide, The boat gently glides, A maritime trip so bona fide.</description>
+    </item>
+    
+    <item>
+      <title>Kangaroo Yoga</title>
+      <link>https://example.com/2023-04-08-limerick-dps9r8tv/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/2023-04-08-limerick-dps9r8tv/</guid>
+      <description>A kangaroo tried out some yoga, Its balance, quite like a tightrope-a, With a hop and a stretch, It found quite the fetch, A marsupial zen-like persona.</description>
+    </item>
+    
+    <item>
+      <title>Raccoon Hiking</title>
+      <link>https://example.com/2023-04-08-limerick-o95sndiz/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/2023-04-08-limerick-o95sndiz/</guid>
+      <description>A raccoon set off for a hike, With a backpack and walking stick-like, Through forests it strolled, With snacks to unfold, Its trail mix, a balanced delight.</description>
+    </item>
+    
+    <item>
+      <title>Multiple Expandable Test</title>
+      <link>https://example.com/multiple-expandable-test/</link>
+      <pubDate>Wed, 17 Jun 2020 22:01:14 -0500</pubDate>
+      
+      <guid>https://example.com/multiple-expandable-test/</guid>
+      <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/36 &amp;ndash; Multiple expandable shortcodes do not work if they have the same inner text.
+expandable 1 Same inner text. expandable 2 Same inner text. expandable 3 Different inner text. </description>
+    </item>
+    
+  </channel>
+</rss>

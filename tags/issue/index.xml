@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>issue on The Daily Limerick</title>
+    <link>https://example.com/tags/issue/</link>
+    <description>Recent content in issue on The Daily Limerick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 22:01:14 -0500</lastBuildDate><atom:link href="https://example.com/tags/issue/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multiple Expandable Test</title>
+      <link>https://example.com/multiple-expandable-test/</link>
+      <pubDate>Wed, 17 Jun 2020 22:01:14 -0500</pubDate>
+      
+      <guid>https://example.com/multiple-expandable-test/</guid>
+      <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/36 &amp;ndash; Multiple expandable shortcodes do not work if they have the same inner text.
+expandable 1 Same inner text. expandable 2 Same inner text. expandable 3 Different inner text. </description>
+    </item>
+    
+  </channel>
+</rss>

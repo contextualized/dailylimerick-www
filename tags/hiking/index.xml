@@ -1,55 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hiking on My New Hugo Site</title>
-    <link>http://example.org/tags/hiking/</link>
-    <description>Recent content in Hiking on My New Hugo Site</description>
+    <title>Hiking on The Daily Limerick</title>
+    <link>https://example.com/tags/hiking/</link>
+    <description>Recent content in Hiking on The Daily Limerick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/hiking/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Gorilla Hiking</title>
-      <link>http://example.org/hiking/2023-04-08-limerick-b3rjse31/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/hiking/2023-04-08-limerick-b3rjse31/</guid>
-      <description>A gorilla went hiking with zest, In the jungle, a natural quest, It swung from the vines, In casual strides, A hike where no humans had pressed.</description>
-    </item>
-    
-    <item>
-      <title>Knight Hiking</title>
-      <link>http://example.org/hiking/2023-04-08-limerick-ktkms59t/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/hiking/2023-04-08-limerick-ktkms59t/</guid>
-      <description>A knight went for hiking one morn, With his armor and helmet adorned, He trekked through the land, Sword and shield in his hand, A medieval adventure was born.</description>
-    </item>
-    
-    <item>
-      <title>Penguin Hiking</title>
-      <link>http://example.org/hiking/2023-04-08-limerick-voi0m91y/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/hiking/2023-04-08-limerick-voi0m91y/</guid>
-      <description>A penguin went hiking one day, Climbing mountains so far away, With flippers for boots, And ice in its roots, A chilly adventure&amp;rsquo;s display.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/hiking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Raccoon Hiking</title>
-      <link>http://example.org/hiking/2023-04-08-limerick-it12vfng/</link>
+      <link>https://example.com/2023-04-08-limerick-o95sndiz/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/hiking/2023-04-08-limerick-it12vfng/</guid>
+      <guid>https://example.com/2023-04-08-limerick-o95sndiz/</guid>
       <description>A raccoon set off for a hike, With a backpack and walking stick-like, Through forests it strolled, With snacks to unfold, Its trail mix, a balanced delight.</description>
-    </item>
-    
-    <item>
-      <title>Robot Hiking</title>
-      <link>http://example.org/hiking/2023-04-08-limerick-4szfxizi/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/hiking/2023-04-08-limerick-4szfxizi/</guid>
-      <description>A robot went hiking, how strange, Its circuits and gears to arrange, It climbed and it trekked, No energy checked, A battery-powered exchange.</description>
     </item>
     
   </channel>
