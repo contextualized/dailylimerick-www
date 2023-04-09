@@ -1,29 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kayaking on The Daily Limerick</title>
-    <link>https://example.com/tags/kayaking/</link>
-    <description>Recent content in Kayaking on The Daily Limerick</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/kayaking/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2023-04-08: Astronaut Kayaking</title>
-      <link>https://example.com/2023-04-08-limerick-pffmlkxr/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/2023-04-08-limerick-pffmlkxr/</guid>
-      <description>An astronaut took to the lake, In a kayak for leisure&amp;rsquo;s sweet sake, In zero G style, It floated a while, A space-kayak trip, quite opaque.</description>
-    </item>
-    
-    <item>
-      <title>Dolphin Kayaking</title>
-      <link>https://example.com/2023-04-08-limerick-9j41hs8b/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/2023-04-08-limerick-9j41hs8b/</guid>
-      <description>A dolphin decided to glide, In a kayak, a new way to ride, With fins as its guide, The boat gently glides, A maritime trip so bona fide.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Kayaking on YOUR DAILY LIMERICK</title>
+		<link>http://example.org/tags/kayaking/</link>
+		<description>Recent content in Kayaking on example.org</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
+		<atom:link href="http://example.org/tags/kayaking/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>2023-04-08</title>
+			<link>http://example.org/post/2023-04-08-limerick-1j89y4ly/</link>
+			<pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+			<guid>http://example.org/post/2023-04-08-limerick-1j89y4ly/</guid>
+			<description>
+			A turtle set off in a kayak, Quite slow, but it never looked back, It paddled with grace, And picked up the pace, A reptilian rowing attack. …
+			</description>
+		</item>
+	</channel>
 </rss>

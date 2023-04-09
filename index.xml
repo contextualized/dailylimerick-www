@@ -1,65 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>The Daily Limerick</title>
-    <link>https://example.com/</link>
-    <description>Recent content on The Daily Limerick</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2023-04-08: Astronaut Kayaking</title>
-      <link>https://example.com/2023-04-08-limerick-pffmlkxr/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/2023-04-08-limerick-pffmlkxr/</guid>
-      <description>An astronaut took to the lake, In a kayak for leisure&amp;rsquo;s sweet sake, In zero G style, It floated a while, A space-kayak trip, quite opaque.</description>
-    </item>
-    
-    <item>
-      <title>2023-04-08: Bee Hiking</title>
-      <link>https://example.com/2023-04-08-limerick-soxf272s/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/2023-04-08-limerick-soxf272s/</guid>
-      <description>A bee buzzed along on a hike, Through flowers and meadows alike, It gathered sweet nectar, A floral collector, A pollinating journey on strike.</description>
-    </item>
-    
-    <item>
-      <title>2023-04-08: Ninja Yoga</title>
-      <link>https://example.com/2023-04-08-limerick-w4qxn9re/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/2023-04-08-limerick-w4qxn9re/</guid>
-      <description>A ninja found peace in a pose, With yoga, a calm juxtapose, In silence and stealth, A focus of wealth, A warrior&amp;rsquo;s zen state, it shows.</description>
-    </item>
-    
-    <item>
-      <title>Dolphin Kayaking</title>
-      <link>https://example.com/2023-04-08-limerick-9j41hs8b/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/2023-04-08-limerick-9j41hs8b/</guid>
-      <description>A dolphin decided to glide, In a kayak, a new way to ride, With fins as its guide, The boat gently glides, A maritime trip so bona fide.</description>
-    </item>
-    
-    <item>
-      <title>Kangaroo Yoga</title>
-      <link>https://example.com/2023-04-08-limerick-dps9r8tv/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/2023-04-08-limerick-dps9r8tv/</guid>
-      <description>A kangaroo tried out some yoga, Its balance, quite like a tightrope-a, With a hop and a stretch, It found quite the fetch, A marsupial zen-like persona.</description>
-    </item>
-    
-    <item>
-      <title>Raccoon Hiking</title>
-      <link>https://example.com/2023-04-08-limerick-o95sndiz/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/2023-04-08-limerick-o95sndiz/</guid>
-      <description>A raccoon set off for a hike, With a backpack and walking stick-like, Through forests it strolled, With snacks to unfold, Its trail mix, a balanced delight.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>YOUR DAILY LIMERICK</title>
+		<link>http://example.org/</link>
+		<description>Recent content on example.org</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
+		<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>2023-04-08</title>
+			<link>http://example.org/post/2023-04-08-limerick-1j89y4ly/</link>
+			<pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+			<guid>http://example.org/post/2023-04-08-limerick-1j89y4ly/</guid>
+			<description>
+			A turtle set off in a kayak, Quite slow, but it never looked back, It paddled with grace, And picked up the pace, A reptilian rowing attack. …
+			</description>
+		</item>
+		<item>
+			<title>2023-04-08</title>
+			<link>http://example.org/post/2023-04-08-limerick-gfqtz1jj/</link>
+			<pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+			<guid>http://example.org/post/2023-04-08-limerick-gfqtz1jj/</guid>
+			<description>
+			An elephant joined a yoga class, With trunk and a large, hefty mass, It stretched and it bent, With such grace, time well spent, A flexible …
+			</description>
+		</item>
+		<item>
+			<title>2023-04-08</title>
+			<link>http://example.org/post/2023-04-08-limerick-wdo5o472/</link>
+			<pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+			<guid>http://example.org/post/2023-04-08-limerick-wdo5o472/</guid>
+			<description>
+			A gorilla went hiking with zest, In the jungle, a natural quest, It swung from the vines, In casual strides, A hike where no humans had …
+			</description>
+		</item>
+	</channel>
 </rss>

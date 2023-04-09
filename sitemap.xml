@@ -2,40 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/2023-04-08-limerick-pffmlkxr/</loc>
+    <loc>http://example.org/post/2023-04-08-limerick-1j89y4ly/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/2023-04-08-limerick-soxf272s/</loc>
+    <loc>http://example.org/post/2023-04-08-limerick-gfqtz1jj/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/2023-04-08-limerick-w4qxn9re/</loc>
+    <loc>http://example.org/post/2023-04-08-limerick-wdo5o472/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>http://example.org/post/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/2023-04-08-limerick-9j41hs8b/</loc>
+    <loc>http://example.org/tags/hiking/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/hiking/</loc>
+    <loc>http://example.org/tags/kayaking/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/2023-04-08-limerick-dps9r8tv/</loc>
+    <loc>http://example.org/tags/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/kayaking/</loc>
+    <loc>http://example.org/tags/yoga/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/2023-04-08-limerick-o95sndiz/</loc>
+    <loc>http://example.org/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
+    <loc>http://example.org/categories/</loc>
   </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/yoga/</loc>
-    <lastmod>2023-04-08T00:00:00+00:00</lastmod>
+    <loc>http://example.org/series/</loc>
   </url>
 </urlset>

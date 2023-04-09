@@ -1,29 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Yoga on The Daily Limerick</title>
-    <link>https://example.com/tags/yoga/</link>
-    <description>Recent content in Yoga on The Daily Limerick</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/yoga/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2023-04-08: Ninja Yoga</title>
-      <link>https://example.com/2023-04-08-limerick-w4qxn9re/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/2023-04-08-limerick-w4qxn9re/</guid>
-      <description>A ninja found peace in a pose, With yoga, a calm juxtapose, In silence and stealth, A focus of wealth, A warrior&amp;rsquo;s zen state, it shows.</description>
-    </item>
-    
-    <item>
-      <title>Kangaroo Yoga</title>
-      <link>https://example.com/2023-04-08-limerick-dps9r8tv/</link>
-      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/2023-04-08-limerick-dps9r8tv/</guid>
-      <description>A kangaroo tried out some yoga, Its balance, quite like a tightrope-a, With a hop and a stretch, It found quite the fetch, A marsupial zen-like persona.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Yoga on YOUR DAILY LIMERICK</title>
+		<link>http://example.org/tags/yoga/</link>
+		<description>Recent content in Yoga on example.org</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
+		<atom:link href="http://example.org/tags/yoga/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>2023-04-08</title>
+			<link>http://example.org/post/2023-04-08-limerick-gfqtz1jj/</link>
+			<pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+			<guid>http://example.org/post/2023-04-08-limerick-gfqtz1jj/</guid>
+			<description>
+			An elephant joined a yoga class, With trunk and a large, hefty mass, It stretched and it bent, With such grace, time well spent, A flexible …
+			</description>
+		</item>
+	</channel>
 </rss>
