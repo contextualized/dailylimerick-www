@@ -9,15 +9,6 @@
 		<lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
 		<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
 		<item>
-			<title>Hiking</title>
-			<link>http://example.org/tags/hiking/</link>
-			<pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-			<guid>http://example.org/tags/hiking/</guid>
-			<description>
-			
-			</description>
-		</item>
-		<item>
 			<title>Kayaking</title>
 			<link>http://example.org/tags/kayaking/</link>
 			<pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
@@ -27,9 +18,18 @@
 			</description>
 		</item>
 		<item>
+			<title>Hiking</title>
+			<link>http://example.org/tags/hiking/</link>
+			<pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+			<guid>http://example.org/tags/hiking/</guid>
+			<description>
+			
+			</description>
+		</item>
+		<item>
 			<title>Yoga</title>
 			<link>http://example.org/tags/yoga/</link>
-			<pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+			<pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
 			<guid>http://example.org/tags/yoga/</guid>
 			<description>
 			
